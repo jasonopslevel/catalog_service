@@ -1,0 +1,33 @@
+---
+version: 1
+service:
+  name: Catalog Service
+  lifecycle:
+  tier:
+  product:
+  owner: jason_s_team
+  language:
+  framework:
+  description: |-
+    Start typing.  And then OK.  dasjf
+
+    fff
+
+    dfsa
+
+    gfd
+
+
+    fds
+
+    fdsa
+  aliases:
+  - test
+  - catalog-service
+  tags:
+  repositories:
+  - name: jasonopslevel/catalog_service
+    path: "/"
+    provider: github
+  tools:
+  dependencies:
