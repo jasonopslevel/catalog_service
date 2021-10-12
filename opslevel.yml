@@ -8,7 +8,7 @@ service:
   owner: sre
   language: hcl
   framework: terraform
-  description: Management of all AWS IAM resources with the new (TLZ) AWS account structure.
+  description: Cataloguey stuff
   aliases: tlz-identity
   tags:
     - key: cloud
