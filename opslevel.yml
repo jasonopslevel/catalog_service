@@ -11,8 +11,8 @@ service:
   description: Management of all AWS IAM resources with the new (TLZ) AWS account structure.
   aliases: tlz-identity
   tags:
-    key: cloud
-    value: aws
+    - key: cloud
+      value: aws
   repositories:
     - name: jasonopslevel/catalog_service
       path: \"/\"
