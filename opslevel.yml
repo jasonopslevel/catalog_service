@@ -15,7 +15,7 @@ service:
       value: aws
   repositories:
     - name: jasonopslevel/catalog_service
-      path: \"/\"
+      path: "/"
       provider: github
   tools:
     - name: GitHub
