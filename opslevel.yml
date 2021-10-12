@@ -5,7 +5,7 @@ service:
   lifecycle: generally_available
   tier: tier_3
   product: aws
-  owner: sre
+  owner: qa
   language: hcl
   framework: terraform
   description: Cataloguey stuff
