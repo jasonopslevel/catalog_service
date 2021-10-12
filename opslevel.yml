@@ -5,21 +5,21 @@ service:
   lifecycle: generally_available
   tier: tier_3
   product: aws
-  owner: qa
+  owner:
   language: hcl
   framework: terraform
   description: Cataloguey stuff
-  aliases: tlz-identity
+  aliases:
   tags:
-    - key: cloud
-      value: aws
+  - key: cloud
+    value: aws
   repositories:
-    - name: jasonopslevel/catalog_service
-      path: "/"
-      provider: github
+  - name: jasonopslevel/catalog_service
+    path: "/"
+    provider: github
   tools:
-    - name: GitHub
-      category: code
-      url: https://github.com/jasonopslevel/catalog_service
-      environment: production
-     
+  - name: GitHub
+    category: code
+    url: https://github.com/jasonopslevel/catalog_service
+    environment: production
+  dependencies:
