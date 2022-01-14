@@ -8,7 +8,7 @@ service:
   owner:
   language: hcl
   framework: terraform
-  description: Cataloguey stuff
+  description: Microservice to serve the product catalog. Written in Go.
   aliases:
   tags:
   - key: cloud
