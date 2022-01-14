@@ -1,4 +1,4 @@
-# catalog_service
+# Catalog Service
 
 ![Overall](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU)
 
