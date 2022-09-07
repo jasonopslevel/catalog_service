@@ -1,20 +1,14 @@
 # Catalog Service
 
-[![Overall](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Security](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Fsecurity)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Reliability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Freliability)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Performance](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Fperformance)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Scalability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Fscalability)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Observability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Fobservability)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Infrastructure](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Finfrastructure)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
-
-[![Quality](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2FduqgjOnsAjJk3cR1HapTmsMXsVRM470WfotJ6QMY5JU%2Fquality)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Overall](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Service Ownership](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Fservice_ownership)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Security](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Fsecurity)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Reliability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Freliability)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Performance](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Fperformance)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Scalability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Fscalability)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Observability](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Fobservability)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Infrastructure](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Finfrastructure)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
+[![Quality](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fopslevel-jason.ngrok.io%2Fapi%2Fservice_level%2F1WHbtwdDcZSCx3LSmF3seHhuuc7Gr2-9QSMCPklUI1w%2Fquality)](https://opslevel-jason.ngrok.io/services/catalog_service/maturity-report)
 
 ## Usage
 Optional: Run python main.py local to see if the result is what you want.
