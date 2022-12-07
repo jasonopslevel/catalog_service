@@ -5,7 +5,7 @@ service:
   lifecycle: generally_available
   tier: tier_3
   product: aws
-  owner:
+  owner: a
   language: hcl
   framework: terraform
   description: Microservice to serve the product catalog. Written in Go.
